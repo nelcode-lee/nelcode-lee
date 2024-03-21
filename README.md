@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nelcode-lee
 - 👀 I’m interested in data science, data analytics
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning python, SQL, 
 - 💞️ I’m looking to collaborate on numerous topics 
 - 📫 How to reach me:lee@nelcode.co.uk
 - 😄 Pronouns: him, he and his
